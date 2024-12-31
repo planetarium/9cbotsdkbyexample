@@ -9,7 +9,7 @@
  */
 
 // In the case that we want to remove a simple file,
-// we can simply call Deno.remove with the filname as
+// we can simply call Deno.remove with the filename as
 // a parameter
 await Deno.remove("example.txt");
 
